@@ -9,7 +9,7 @@ This token-based design issues an access token and refresh token to a client aft
 ## Architecture
 ### Backend
 - Express - server
-- GraphQl - query language
+- GraphQL - query language
 - JSON Web Token - Authentication & Authorization
 - TypeORM - ORM framework
 - PostgreSQL - database
